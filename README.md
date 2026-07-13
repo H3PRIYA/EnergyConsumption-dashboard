@@ -49,7 +49,7 @@ The report is built on the following tables:
 
 **📌 Notes**
 
--- **Date range covered:** Jan 2016 – Dec 2019
--- **Cities included:** New York, Chicago, Los Angeles, Phoenix, Houston
--- **Filters** (City, Building, Date) apply across all consumption-type pages
+- **Date range covered:** Jan 2016 – Dec 2019
+- **Cities included:** New York, Chicago, Los Angeles, Phoenix, Houston
+- **Filters** (City, Building, Date) apply across all consumption-type pages
 
