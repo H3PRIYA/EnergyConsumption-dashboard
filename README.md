@@ -47,5 +47,8 @@ The report is built on the following tables:
 <img width="1275" height="742" alt="image" src="https://github.com/user-attachments/assets/75a707b5-1717-48e5-8274-3a158580d7f5" />
 <img width="1230" height="739" alt="image" src="https://github.com/user-attachments/assets/671ba899-cdbf-43c5-9410-73bab963d494" />
 
-
+📌 Notes
+Date range covered: Jan 2016 – Dec 2019
+Cities included: New York, Chicago, Los Angeles, Phoenix, Houston
+Filters (City, Building, Date) apply across all consumption-type pages
 
